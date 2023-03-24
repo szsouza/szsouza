@@ -28,5 +28,6 @@ Sou um desenvolvedor Full-Stack e tenho conhecimento nas tecnologias como Javasc
     <a href="https://instagram.com/szxsouza?igshid=ZDdkNTZiNTM=" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    
     ![Snake animation](https://github.com/ellen2121/szsouza/blob/output/github-contribution-grid-snake.svg)
   </div>
